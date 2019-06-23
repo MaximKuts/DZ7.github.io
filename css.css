@@ -1,0 +1,168 @@
+ body{
+   margin: 0px;
+ background:#e7e7e7;
+ }
+ body * {
+  box-sizing: border-box;
+}
+.Banner{
+  margin: 0;
+  height: 329px;
+  max-width:1000px;
+  margin: 0 auto;
+}
+#Body{
+  background: #000000;
+} 
+ span {
+  color:#686868;
+  font-size:12px;
+  }
+  .InputButton{
+    display:block;
+   margin-right: 5px;
+  }
+  #InputHeader{
+    background:#323232;
+    width: 250px;
+    height: 25px;
+    border: 1px solid #4c4c4c;
+  }
+  .list{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  .list3{
+    list-style-type: none;
+  }
+  button{
+    background: #000000;
+   border: 1px solid #4c4c4c;
+   font-size: 14px;
+   color: #ffffff;
+    height: 25px;
+    
+  }
+ .headerText{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width:1000px;
+  margin: 0 auto;
+ }
+ header{
+   font-family: Arial, Helvetica, sans-serif;
+   height: 60px;
+   background: #171616
+ }
+.headerText img{
+  width:120px;
+  display: block;
+  padding-top: 10px
+}
+.holder{
+max-width:1000px;
+  margin: 0 auto;
+  background: #ffffff;
+}
+.Banner img{
+  position	: absolute;
+  height: 329px;
+}
+.Text {
+  height:40px;
+  top: 290px;
+  position: relative;
+opacity: 0.5;
+background: #000000;
+}
+ span{
+   margin: 5px;
+  color: #FFFFFF
+ }
+.menu{
+  display: flex;
+  background: #000000;
+  height: 30px;
+
+}
+.menu a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  padding: 5px;
+  color: #FFFFFF;
+  border: 1px solid #272727;
+  text-decoration: none;
+ padding-left: 24px;
+ padding-right: 24px;
+}
+h1,h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: #838383;
+  line-height: 20px;
+  margin: 10px;
+  margin-top: 30px;
+}
+ h2{font-size: 20px;}
+.Text2{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+  font-size: 13px;
+}
+.images{
+  background: #e2e2e2;
+  padding: 12px;
+}
+.Foto{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px
+}
+ table {
+  margin: 10px;
+  font-size: 13px;
+  align-items: center;
+  border-collapse: collapse;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center 
+}
+   TR,td {
+    border: 1px solid #68686849; 
+    width: 900px;
+    padding: 5px;
+ }
+ TH{
+  font-family: Arial, Helvetica, sans-serif;
+  background: #83838328;
+  font-size: 13px;
+  border: 1px solid #6868684d;
+  padding: 5px;
+}
+#inputText{
+  
+  margin:5px 0px 0px 0px;
+}
+ label{
+   margin: 5px 0px;
+ }
+  select{
+    margin-bottom: 20px;
+  }
+  .input2{
+  margin: 10px;
+  }
+  #Button{
+    margin:5px 0px;
+  }
+  #content{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #656565;
+    font-size: 13px;
+    max-width:1000px;
+margin: 0 auto;
+  }
